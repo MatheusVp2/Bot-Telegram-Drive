@@ -1,0 +1,18 @@
+FOTO === https://stackoverflow.com/questions/42796300/get-photo-in-telegram-bot-through-pytelegrambotapi
+
+OUTROS === https://jeckill.ru/pishem-bota-dlya-telegram-prinimaem-fajly/
+
+ARQUIVO GOOGLE DRIVE API === https://www.youtube.com/watch?v=-7YH6rdR-tk
+                             https://www.youtube.com/watch?v=9OYYgJUAw-w
+                             https://www.youtube.com/watch?v=j31iVbkknzM
+
+API = 791629883947-eeqtsqerij7043bvjrgv11qlv80ap2hs.apps.googleusercontent.com
+
+
+
+
+
+
+
+
+
