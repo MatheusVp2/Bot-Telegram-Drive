@@ -34,7 +34,7 @@ def foto(nome, valor):
     #cv2.imshow("Imagem", imagem)
     #cv2.waitKey(0)
 
-bot = telebot.TeleBot( "713139444:AAFbFc2lDX5ZTI8ocCBM-1Blfc1Dfpfyxs0" )
+bot = telebot.TeleBot( "chave" )
 
 foto('Matheus', 20)
 
